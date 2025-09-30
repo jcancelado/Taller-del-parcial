@@ -8,7 +8,7 @@ Este repositorio contiene el desarrollo de el
 
 <h2>📂 Estructura del repositorio</h2>
 <ul>
-  <li><code>Taller.pdf</code> → enunciado oficial del taller.</li>
+  <li><code>Taller.pdf</code> → PDF con las respuestas y puntos del taller</li>
   <li><code>PUNTOS/</code> → carpeta con la solución de cada ejercicio en archivos <code>.py</code>.
     <ul>
       <li><code>punto1.py</code></li>
